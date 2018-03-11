@@ -1,0 +1,9 @@
+[package]
+name = "rust_chain"
+version = "0.1.0"
+authors = ["Andrew Pierno <andrewpierno@gmail.com>"]
+
+[dependencies]
+rust-crypto = "0.2.36"
+time = "0.1"
+serde_json = "1.0"
